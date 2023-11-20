@@ -1,2 +1,13 @@
-# personal_training2
-booking system for personal trainers
+課題{PHP} -{予約システム with MySQL}-
+
+①課題内容（どんな作品か）
+ジムのレッスン予約システム
+
+②工夫した点・こだわった点
+1. 店舗管理画面と顧客画面をわけて構築
+2. シフトの登録と表示機能が思いの外大変で、丸一日かかった・・・
+3. 見た目の統一感
+
+③難しかった点・次回トライしたいこと(又は機能)
+add.sessionsをDBと連携させること
+LINEやGoogle Calenderと連携すること
